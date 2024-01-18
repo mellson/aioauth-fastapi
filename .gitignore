@@ -126,3 +126,6 @@ codegen/python/
 # es
 data
 pythonenv*
+
+jwtRSA256-private.pem
+jwtRSA256-public.pem
